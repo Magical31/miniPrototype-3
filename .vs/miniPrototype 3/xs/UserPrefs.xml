@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8B83AD0D-28CF-6FF6-43CA-3A39096593EF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="31" Column="1" />
+      <File FileName="Assets/Scripts/MoveLeft.cs" Line="30" Column="2" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="88" Column="2" />
+      <File FileName="Assets/Scripts/RepeatBackground.cs" Line="25" Column="2" />
+      <File FileName="Assets/Scripts/MenuScript.cs" Line="46" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="miniPrototype 3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SpawnManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="22732558-d4e1-4a0f-9850-a296cacd474b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
